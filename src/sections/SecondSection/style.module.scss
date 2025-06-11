@@ -1,0 +1,26 @@
+.secondSection{
+    ul{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 56px;
+        
+        li{
+            list-style: none;
+            color: white;
+        }
+    }
+
+    section{
+        padding: 16px;
+        h2{
+            color: white;
+        }
+
+        img{
+            width: 100%;
+            margin-top: 16px;
+            border-radius: 6px;
+        }
+    }
+}
